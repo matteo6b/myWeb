@@ -51,7 +51,7 @@
 						<footer>
 							<ul class="icons">
 								<li><a href="https://es.linkedin.com/in/mateobistuer" class="fa-linkedin">Linkedin</a></li>
-								<li><a href="" class="fa-github">GitHub</a></li>
+								<li><a href="https://github.com/mbistuer" class="fa-github">GitHub</a></li>
 								<li><a href="https://medium.com/@matteo6bl" class="fa-medium">Medium</a></li>
 							</ul>
 						</footer>
